@@ -49,3 +49,7 @@ qwe.php
 l7.php
 api/path/ep
 api/path/ep.json
+api/proxy
+swagger-ui
+demo
+metrics
